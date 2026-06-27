@@ -5,3 +5,5 @@ const API = axios.create({
 });
 
 export default API;
+
+//https://fakeapi.platzi.com/en/rest/products/
